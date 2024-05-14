@@ -1,0 +1,7 @@
+npm install express
+npm install morgan
+
+test json post:
+
+{"name": "bun bo",
+"description": "ngon"}
